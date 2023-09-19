@@ -7,6 +7,8 @@ Members of the group:
 19125115 - Đinh Duy Phước 
 19125111 - Trần Minh Nhựt
 
+Game title: StarRoller - Begin Your Infinite Roll!
+
 Introduction of the game:
 This is a 3D game that challenges the players' reflexes and skills. The game consists of a ball that moves along a track with various obstacles and stars. The players can drag the ball left or right to avoid the obstacles and collect the stars. The more stars they collect, the higher their score will be. The game also has a highscore system that records the best scores of the players. The game becomes more difficult as the speed of the ball increases over time, requiring quick reactions and precise movements from the players.
 
